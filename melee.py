@@ -8,7 +8,7 @@ Setup:
     # The amount of damage dealt by a melee hit (default: 20)
     melee_damage = 20
 
-This line my already be in the config.toml file so you may not have setup at all
+This line may already be in the config.toml file so you may not have setup at all
 """
 
 from pyspades.collision import vector_collision
