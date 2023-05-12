@@ -8,9 +8,9 @@
 
 ### Scripts were tweaked to work with Ace of Spades 0.60 for [piqueserver-protocol060](https://github.com/utf-4096/pique-legacy) developed by utf-4096
 ## Airstrike Commands
-|  Commands  |                                          Description                                                      |
+|  Commands  |                                          Usage/Description                                                      |
 | --------- | ------------------------------------------------------------------------------------------                 |
-|`/airstrike or /a`  | *When a player gains 15 kills they recieve an airstrike, they gain another after a 6 killstreak*  |
+|`/airstrike or /a`  | ```e.g. /airstrike B4``` *Target a quadrant* **(A1 - H8)** *When a player gains 15 kills they receive an airstrike*  |
 |`/givestrike`       | *Gives the player an airstrike instantly* ***ADMIN ONLY***                                        |
 
 #### Special thanks to utf-4096 for helping with tweaking the *airstrike.py* script
