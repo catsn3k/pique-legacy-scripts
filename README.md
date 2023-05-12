@@ -1,5 +1,5 @@
 # pique-legacy-scripts
-### *melee.py* and *airstrike.py* scripts for pique-legacy Ace of Spades 0.60
+### *melee.py* and *airstrike.py* scripts for Ace of Spades 0.60
 <a href="https://github.com/utf-4096/pique-legacy">
 <img src="https://raw.githubusercontent.com/piqueserver/piqueserver/4060e6423f4f06bd2fc818242267decd5a15b9e4/doc/logo.svg" href="https://github.com/utf-4096/pique-legacy" width="64" align="left">
 </a>
